@@ -13,3 +13,4 @@ Objective:
 The primary objective of thr python programming language is to provide simple, easy to learn and powerful langauge that emphasizes readability and efficiency
 
 key Activities : Data cleaning : using libraries like pandas and NumPy to manipulate anf analysis datasetd Data visualisation : creating charts, graphs and visualization like sesborn,handling databases
+![output](https://github.com/user-attachments/assets/538d54c2-1125-48d5-b6c3-95a0e1e55061)
